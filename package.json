@@ -1,0 +1,24 @@
+{
+  "name": "scripts4u",
+  "license": "All rights reserved for ethic",
+  "version": "1.0.0",
+  "description": "This is the GUIDE for",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j1i-ian/scripts4u.git"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/j1i-ian/scripts4u/issues"
+  },
+  "homepage": "https://github.com/j1i-ian/scripts4u#readme",
+  "devDependencies": {
+    "typeorm-model-generator": "^0.4.6"
+  }
+}
